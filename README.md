@@ -10,4 +10,4 @@
      https://ahmedsaa3d.github.io/LenoDesign/
 
 # Site ScreenShot :
-![](Leno-ScreenShot.png)
+![](Leno-template-design.png)
